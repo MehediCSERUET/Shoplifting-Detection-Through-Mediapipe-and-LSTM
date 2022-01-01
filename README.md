@@ -2,7 +2,7 @@
 
 ## Instructions for setting up the environment:
 1. Create a virtual environment using the following command in Anaconda
-    `conda create --name myenv pyhton==3.8.0`
+    `conda create --name myenv python==3.8.0`
 - - - -
 2. Install the required libraries from requirements.txt using the following command
     `pip install -r requirements.txt`
