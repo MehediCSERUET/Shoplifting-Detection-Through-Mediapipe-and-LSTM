@@ -1,0 +1,10 @@
+tensorflow-gpu==2.5.0
+numpy
+pandas
+matplotlib
+sklearn
+opencv-python
+mediapipe
+csv
+h5py
+keras
