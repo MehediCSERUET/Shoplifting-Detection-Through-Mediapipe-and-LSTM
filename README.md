@@ -22,7 +22,7 @@
     - Set the video path or camera id 
     - set the model path
     - run the cells
-    - **If you want to stay the color when shoplifter is detected, comment out 129,130 number line**
+    - **If you want the color to stay red when shoplifter is detected, comment out 129,130 number line**
 - - - -
 5. To create dataset from video:
     Run Dataset_Maker.ipynb
